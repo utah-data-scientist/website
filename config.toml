@@ -1,0 +1,116 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Utah Data Scientist"
+author = "Nathan Cheever"
+defaultContentLanguage = "en-US"
+paginate = 7
+copyright = "Utah Data Scientist"
+disqusShortname = "XXX"
+googleAnalytics = "XXX"
+
+theme = "ghostwriter"
+
+[params]
+    description = "Connecting aspiring data scientists to resources to help them learn about the job market and how to progress in their careers"
+    favicon = "favicon.ico"
+    logo = ""
+    intro = true
+    headline = "# Utah Data Scientist"
+    readingTime = true
+    readingTimeText = "Estimated reading time:"
+    email = "nathan.cheever12@gmail.com"
+    github = "https://github.com/utah-data-scientist"
+    shareTwitter = true
+    shareFacebook = true
+    shareLinkedIn = true
+
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Resources"
+    url = "/resources/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/page/contact/"
+    weight = 4
+
+[params.hero]
+    textColor = ""  # Empty for default color
+    
+[params.cta]
+    show = true
+    cta = "Yeah"
+    link = "posts"
+
+[params.separator]
+    show = false
+
+[params.form]
+    netlify = true
+    action = "https://formspree.io/nathan.cheever12@gmail.com"
+    method = "POST"
+    inputNameName = "name"
+    inputNameLabel = "Name"
+    inputNamePlaceholder = "Your name"
+    inputEmailName = "email"
+    inputEmailLabel = "Email"
+    inputEmailPlaceholder = "Your email"
+    inputMsgName = "message"
+    inputMsgLabel = "Write something"
+    inputMsgLength = 750
+    inputSubmitValue = "Send"
+
+[params.posts]
+    showAuthor = true
+    showDate = true
+    showTags = true
+    dateFormat = "Monday, Jan, 2006"
+
+[params.contact]
+    email = "nathan.cheever12@gmail.com"
+    
+
+[params.social]
+    twitter = "https://twitter.com/data_cheeves"
+    github = "https://github.com/utah-data-scientist"
+    linkedin = ""
+
+[params.copy] # Copyright
+    copy = "Utah Data Scientist" # Empty for default content
+
+[privacy]
+    [privacy.googleAnalytics]
+        anonymizeIP = true
+        disable = false
+        respectDoNotTrack = true
+        useSessionStorage = false
+    [privacy.instagram]
+        disable = false
+        simple = false
+    [privacy.twitter]
+        disable = false
+        enableDNT = true
+        simple = false
+    [privacy.vimeo]
+        disable = false
+        simple = false
+    [privacy.youtube]
+        disable = false
+        privacyEnhanced = true
+
+[Taxonomies]
+    tag = "tags"
