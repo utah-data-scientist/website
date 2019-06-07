@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Utah Data Scientist</title>
+    <link>/</link>
+    <description>Recent content on Utah Data Scientist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Utah Data Scientist</copyright>
+    <lastBuildDate>Wed, 05 Jun 2019 22:21:42 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How AdvancedMD hires data analysts</title>
+      <link>/2019/06/05/how-amd-hires-analysts/</link>
+      <pubDate>Wed, 05 Jun 2019 22:21:42 +0100</pubDate>
+      
+      <guid>/2019/06/05/how-amd-hires-analysts/</guid>
+      <description>Whenever we hire on our data team we issue a homework challenge. Sometimes the resume will look amazing, but when you actually see how someone does an analysis (if they do it at all) it can greatly change how you see them.
+ &amp;ldquo;When we see really good talent, we want to hire them&amp;rdquo;
+ When we hire for an analyst position, each applicant must pass thru the &amp;ldquo;Burger&amp;rsquo;s and Shakeland Challenge&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/page/about/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>/page/about/</guid>
+      <description>About After going through starting my data science career in Utah and talking to people interested in getting into data science but not knowing how, I decided to put up this website to help.
+This site isn&amp;rsquo;t about teaching you how to do data science &amp;ndash; there are plenty of those out there (Kaggle, YouTube, a million blogs). This site is different because you get to learn about what the workplaces are like here, what tools the teams use and the skills they value to help guide you on your quest into data science.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/page/contact/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>/page/contact/</guid>
+      <description>Contact pelase</description>
+    </item>
+    
+    <item>
+      <title>Learning Python</title>
+      <link>/resources/learning-python/</link>
+      <pubDate>Tue, 18 Nov 2014 02:13:50 +0000</pubDate>
+      
+      <guid>/resources/learning-python/</guid>
+      <description>How Data Science is done in Utah Learn what companies are doing and prepare for your career. Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus. Quisque hendrerit sit amet turpis eu varius. Ut id lorem ac felis ultrices tincidunt. Pellentesque consequat arcu ac fringilla imperdiet. Phasellus pellentesque, sapien non pulvinar blandit, sapien ante aliquet felis, vel porttitor sapien ante in lacus.</description>
+    </item>
+    
+    <item>
+      <title>Learning R</title>
+      <link>/resources/learning-r/</link>
+      <pubDate>Tue, 18 Nov 2014 02:13:50 +0000</pubDate>
+      
+      <guid>/resources/learning-r/</guid>
+      <description> How Data Science is done in Utah </description>
+    </item>
+    
+    <item>
+      <title>My awesome project</title>
+      <link>/resources/my-awesome-project/</link>
+      <pubDate>Tue, 18 Nov 2014 02:13:50 +0000</pubDate>
+      
+      <guid>/resources/my-awesome-project/</guid>
+      <description>How Data Science is done in Utah Learn what companies are doing and prepare for your career. Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus. Quisque hendrerit sit amet turpis eu varius. Ut id lorem ac felis ultrices tincidunt. Pellentesque consequat arcu ac fringilla imperdiet. Phasellus pellentesque, sapien non pulvinar blandit, sapien ante aliquet felis, vel porttitor sapien ante in lacus.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/page/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/resources/</guid>
+      <description> Here are some handy resources!
+Learning Programming Python Great Python resources here
+R Great R resources here
+Local events and Meetups some stuff here
+Finding a job resources LinkedIn Stuff
+Resume Stuff
+Cover Letter </description>
+    </item>
+    
+  </channel>
+</rss>
